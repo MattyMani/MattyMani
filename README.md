@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MattyMani
+- 👋 <h1> Hi, I’m Matthew
 - 👀 I’m interested in Python, AI, Data Science, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on fun projects!
