@@ -7,5 +7,5 @@ I'm a **Data Scientist** who is passionate about **Machine Learning** and all it
 
 ## Find me around the web 🌎: <a href="google.com"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/87550008/126024948-b6662add-9daf-406f-8725-fee8cad0531b.png?raw=true"></a>
 <!-- - Learning on <a href="https://www.lipsum.com/">matthew.dev</a> 📹 ✍🏾 -->
-- Sharing updates on <a href="https://www.linkedin.com/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/matthew-watts-b48752bb/">LinkedIn</a> 💼
 <!-- - Seeking new interactions on <a href="https://www.lipsum.com/">Twitter</a> 🏓 -->
